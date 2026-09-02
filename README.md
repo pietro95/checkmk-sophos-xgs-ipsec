@@ -66,4 +66,4 @@ This project was created with the assistance of an artificial intelligence langu
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [GNU General Public License v2.0](LICENSE).
